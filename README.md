@@ -1,2 +1,1 @@
-# Netflix_Analysis
-analyzed Netflix’s content data to uncover meaningful insights and build an interactive dashboard that allows users to explore the dataset dynamically. It involved comprehensive data cleaning, data preprocessing, database normalization, exploratory data analysis (EDA), and dashboard creation.
+Analyzed Netflix's content data to uncover meaningful insights. Preprocessed and normalized the dataset for efficient querying. Performed Exploratory Data Analysis (EDA) to identify trends in content distribution. Built an interactive dashboard to allow users to explore the dataset dynamically
