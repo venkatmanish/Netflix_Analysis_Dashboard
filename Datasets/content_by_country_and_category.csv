@@ -1,0 +1,21 @@
+Country,Category,Count
+Canada,0,118
+Canada,1,59
+Egypt,0,89
+Egypt,1,12
+France,0,69
+France,1,46
+India,0,852
+India,1,71
+Japan,0,69
+Japan,1,157
+South Korea,0,36
+South Korea,1,147
+Spain,0,89
+Spain,1,45
+United Kingdom,0,193
+United Kingdom,1,204
+United States,0,1850
+United States,1,705
+Unknown,0,230
+Unknown,1,277
